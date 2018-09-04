@@ -42,6 +42,18 @@ Blog post / guide
 <br>  
 <br>
 
+**ETHEREUM AND SMART CONTRACT DEVELOPMENT:**
+
+[CryptoZombies: Learn to Code Ethereum DApps By Building Your Own Game](https://cryptozombies.io/)  
+Interactive Code School, powered by Loom Network  
+Start Date: Anytime
+
+[Zastrin](https://www.zastrin.com/)  
+Real world projects, free and paid courses  
+Start Date: Anytime  
+  
+
+
 **CRYPTOASSET TAXATION:** 
 
 [CANADIAN CRYPTO TAX: LEGAL VS. REASONABLE REQUIREMENTS](https://koiresearchgroup.com/wp-content/uploads/2018/03/Crypto-Tax-in-Canada-Legal-vs-Reasonable-Requirements-Koi_Metrics-v4-03.26.pdf)  
