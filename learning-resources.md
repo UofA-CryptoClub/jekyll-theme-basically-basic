@@ -74,6 +74,8 @@ Cost: $29.00 USD
 <br>
 [Jameson Lopp Bitcoin Resources](http://lopp.net/bitcoin.html)
 <br>
+[Binance Academy Community Content](https://www.binance.vision/)
+<br>
 <br>
 
 **FREE GUIDES:**
