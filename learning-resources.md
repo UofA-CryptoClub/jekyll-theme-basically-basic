@@ -73,7 +73,7 @@ Cost: $29.00 USD
 [Spartan Blockchain and Cryptocurrency Club (SBCC) Education Section](http://msublockchain.org/education/)  
 <br>
 [Jameson Lopp Bitcoin Resources](http://lopp.net/bitcoin.html)
-<br>
+<br>  
 [Binance Academy Community Content](https://www.binance.vision/)
 <br>
 <br>
