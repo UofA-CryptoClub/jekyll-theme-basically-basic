@@ -51,9 +51,8 @@ Start Date: Anytime
 [Zastrin](https://www.zastrin.com/)  
 Real world projects, free and paid courses  
 Start Date: Anytime  
-  
-  
-
+<br>
+<br>
 
 **CRYPTOASSET TAXATION:** 
 
