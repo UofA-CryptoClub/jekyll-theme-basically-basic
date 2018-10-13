@@ -1,4 +1,4 @@
-# MODIFICATIONS:
+# Modifications:
 
 Logo Grid for 'Partners & Memberships':  
 - added _partners.scss  
