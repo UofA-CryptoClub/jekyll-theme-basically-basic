@@ -1,3 +1,10 @@
+MODIFICATIONS:
+
+Logo Grid for 'Partners & Memberships':
+http://unmatchedstyle.com/news/building-a-client-logo-grid-with-centered-elements.php
+
+
+
 # [Basically Basic Jekyll Theme][1]
 
 [![Gem](https://img.shields.io/gem/v/jekyll-theme-basically-basic.svg?style=flat-square)](https://rubygems.org/gems/jekyll-theme-basically-basic)
