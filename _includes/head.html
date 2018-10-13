@@ -25,6 +25,9 @@
   {% if site.data.theme.google_fonts %}
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={% for font in site.data.theme.google_fonts %}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{% endfor %}">
   {% endif %}
+  
+  <!-- For Partnerships Slider -->    
+  
 
   {% if site.gems contains 'jekyll-feed' %}
     {% comment %}
