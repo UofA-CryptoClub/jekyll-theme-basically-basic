@@ -1,4 +1,27 @@
 
+article.partners
+  float: left
+  display: table-cell
+  vertical-align: middle
+  text-align: center
+  width: 203px
+  height: 150px
+  margin-right: 15px
+  margin-bottom: 15px
+  border: 1px solid #4d4d4d
+  -webkit-border-radius: 3px
+  -moz-border-radius: 3px
+  border-radius: 3px
+  *
+    vertical-align: middle
+  span
+    display: inline-block
+    height: 100%
+    width: 1px
+
+// original CSS:
+/* 
+
 article.partners {
 	float: left;
 	display: table-cell;
@@ -23,3 +46,6 @@ article.partners span {
 	height: 100%;
 	width: 1px;
 }
+
+*/
+
