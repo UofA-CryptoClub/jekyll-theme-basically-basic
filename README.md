@@ -1,7 +1,7 @@
 # MODIFICATIONS:
 
-Logo Grid for 'Partners & Memberships':
--added _partners.scss
+Logo Grid for 'Partners & Memberships':  
+- added _partners.scss  
 http://unmatchedstyle.com/news/building-a-client-logo-grid-with-centered-elements.php
 
 
