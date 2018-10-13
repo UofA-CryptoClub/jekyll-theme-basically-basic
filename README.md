@@ -1,13 +1,13 @@
 # Modifications:
 
-Logo Grid for 'Partners & Memberships':  
+### Logo Grid for 'Partners & Memberships':  
 - added _partners.scss  
 - https://codepen.io/saltmktg/pen/pjKmQE
 
-Blockchain Radio Player:
-The brand new BLOCKCHAIN RADIO player is now available to add to your website. Just copy/paste one of these small snippets of script to your website and your website users will be able to listen to Blockchain Radio in the background as they use your website:  
-Normal: <script src="https://embed.radio.co/player/6d6374e.js"></script>
-Small: <script src="https://embed.radio.co/player/c7b386a.js"></script>
+### Blockchain Radio Player:  
+The brand new BLOCKCHAIN RADIO player is now available to add to your website. Just copy/paste one of these small snippets of script to your website and your website users will be able to listen to Blockchain Radio in the background as they use your website:    
+Normal: <script src="https://embed.radio.co/player/6d6374e.js"></script>  
+Small: <script src="https://embed.radio.co/player/c7b386a.js"></script>  
 Let us know when you add it and we will list you in the ‘Blockchain Radio Players Directory’, which will soon go 'live' !
 
 
